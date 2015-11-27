@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="6px" height="11px" viewBox="-0.86 -0.531 6 11" enable-background="new -0.86 -0.531 6 11"
+	 xml:space="preserve">
+<defs>
+</defs>
+<path fill="#FFFFFF" d="M3.99,5.637C3.815,5.029,3.308,4.531,3.16,3.922c0.018-0.026,0.038-0.05,0.055-0.077
+	C3.307,3.696,3.19,3.448,2.999,3.469c-0.047,0.005-0.094,0.01-0.141,0.016c-0.06,0.006-0.12,0.031-0.168,0.07
+	c0.003-0.74,0.135-1.485-0.013-2.214C2.613,1.024,2.132,1.158,2.195,1.473c0.147,0.729,0.086,1.562,0.039,2.362
+	C1.895,4.212,1.772,4.706,1.664,5.2C1.657,5.23,1.672,5.253,1.676,5.281C1.671,5.288,1.663,5.288,1.658,5.296
+	C1.585,5.424,1.541,5.583,1.506,5.748c-0.307,0.526-0.615,1.056-0.717,1.64C0.762,7.545,0.855,7.704,1.03,7.704
+	c0.384,0,0.68,0.004,0.918-0.02C2.46,7.976,3.777,7.739,4.206,7.679c0.139-0.02,0.203-0.188,0.175-0.308
+	C4.241,6.792,4.156,6.212,3.99,5.637z"/>
+<line fill="none" stroke="#010101" stroke-width="0.5723" stroke-miterlimit="10" x1="4.696" y1="7.857" x2="1.41" y2="5.167"/>
+<line fill="none" stroke="#010101" stroke-width="0.5723" stroke-miterlimit="10" x1="0.41" y1="7.857" x2="3.725" y2="5.167"/>
+<line fill="none" stroke="#010101" stroke-width="0.5723" stroke-miterlimit="10" x1="3.725" y1="5.167" x2="2.124" y2="2.163"/>
+<path fill="none" stroke="#010101" stroke-width="0.5723" stroke-miterlimit="10" d="M2.679,0.296C2.651,0.296,2.625,0.3,2.597,0.3
+	c-0.057,0-0.108-0.006-0.164-0.008L1.896,3.822L0.41,7.857h4.286L3.238,3.822L2.679,0.296z"/>
+<line fill="none" stroke="#010101" stroke-width="0.5723" stroke-miterlimit="10" x1="1.41" y1="5.167" x2="2.981" y2="2.163"/>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#010101" d="M2.554,8.728c0.314,0,0.57,0.258,0.57,0.572
+	s-0.256,0.572-0.57,0.572S1.981,9.615,1.981,9.3S2.239,8.728,2.554,8.728L2.554,8.728z"/>
+</svg>

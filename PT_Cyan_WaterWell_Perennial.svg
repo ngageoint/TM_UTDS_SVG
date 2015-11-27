@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="3px" height="3px" viewBox="-0.369 -0.378 3 3" enable-background="new -0.369 -0.378 3 3"
+	 xml:space="preserve">
+<defs>
+	<symbol  id="Well_x5F_Water_x5F_1A050P003" viewBox="-1.134 -1.134 2.268 2.268">
+		<path fill="#00AEEF" d="M1.134,0c0-0.626-0.508-1.134-1.134-1.134S-1.134-0.626-1.134,0S-0.626,1.134,0,1.134S1.134,0.626,1.134,0
+			z"/>
+	</symbol>
+</defs>
+<use xlink:href="#Well_x5F_Water_x5F_1A050P003"  width="2.268" height="2.268" x="-1.134" y="-1.134" transform="matrix(1 0 0 -1 1.1338 1.1338)" overflow="visible"/>
+</svg>

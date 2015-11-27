@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="5px" height="5px" viewBox="-0.489 -0.102 5 5" enable-background="new -0.489 -0.102 5 5"
+	 xml:space="preserve">
+<defs>
+	<symbol  id="Building_x5F_Hospital_x5F_1L015P009" viewBox="-2.48 -2.48 4.961 4.961">
+		<path d="M2.48,0c0-1.37-1.111-2.48-2.48-2.48S-2.48-1.37-2.48,0S-1.369,2.48,0,2.48S2.48,1.37,2.48,0z"/>
+		<g>
+			<path fill="#FFFFFF" d="M1.736,0.354H0.354v1.381C0.24,1.759,0.121,1.771,0,1.771s-0.24-0.013-0.354-0.036V0.354h-1.382
+				C-1.76,0.24-1.772,0.121-1.772,0s0.013-0.24,0.036-0.354h1.382v-1.38C-0.24-1.759-0.121-1.771,0-1.771s0.24,0.013,0.354,0.037
+				v1.38h1.382C1.759-0.24,1.771-0.121,1.771,0S1.759,0.24,1.736,0.354z"/>
+		</g>
+	</symbol>
+</defs>
+<ellipse fill="#FFFFFF" cx="2.173" cy="2.172" rx="1.856" ry="1.785"/>
+<use xlink:href="#Building_x5F_Hospital_x5F_1L015P009"  width="4.961" height="4.961" x="-2.48" y="-2.48" transform="matrix(0.876 0 0 -0.876 2.1729 2.1729)" overflow="visible"/>
+</svg>

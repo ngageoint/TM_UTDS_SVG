@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="6px" height="9px" viewBox="-0.17 -0.23 6 9" enable-background="new -0.17 -0.23 6 9"
+	 xml:space="preserve">
+<defs>
+	<symbol  id="RigInland" viewBox="-2.657 -3.817 5.314 7.635">
+		<path d="M0.567-3.25c0-0.313-0.254-0.567-0.567-0.567S-0.567-3.563-0.567-3.25c0,0.313,0.254,0.566,0.567,0.566
+			S0.567-2.938,0.567-3.25z"/>
+		<g id="XMLID_6_">
+			<path d="M-0.677-2.239c-0.336-0.197-1.74-1.369-1.962-0.871c-0.123,0.273,0.398,0.632,0.544,0.815
+				c0.193,0.244,0.365,0.523,0.53,0.791c0.823,1.342,1.104,2.858,1.091,4.414c-0.002,0.321-0.052,0.834,0.403,0.9
+				c0.695,0.101,0.541-0.86,0.534-1.266C0.447,1.523,0.66,0.406,1.084-0.54c0.247-0.552,0.525-1.087,0.886-1.573
+				c0.111-0.147,1.03-0.967,0.547-1.12C2.092-3.367,1.359-2.694,0.972-2.391C0.214-1.797-0.096-1.786-0.677-2.239"/>
+		</g>
+	</symbol>
+</defs>
+<use xlink:href="#RigInland"  width="5.314" height="7.635" id="XMLID_1_" x="-2.657" y="-3.817" transform="matrix(1.0667 0 0 -1.0395 2.8345 3.9688)" overflow="visible"/>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="8px" height="8px" viewBox="-0.178 -0.178 8 8" enable-background="new -0.178 -0.178 8 8"
+	 xml:space="preserve">
+<defs>
+	<symbol  id="Ice_Peak_Rock_x5F_2J060P003" viewBox="-3.822 -3.822 7.644 7.644">
+		<polygon fill="#BC9045" points="-3.822,-0.214 -2.121,-0.214 -2.121,0.212 -3.822,0.212 		"/>
+		<polygon fill="#BC9045" points="-0.212,-3.822 0.213,-3.822 0.213,-2.121 -0.212,-2.121 		"/>
+		<polyline fill-rule="evenodd" clip-rule="evenodd" fill="#BC9045" points="-1.349,-1.651 -2.552,-2.854 -2.852,-2.553 
+			-1.65,-1.351 -1.349,-1.651 		"/>
+		<polyline fill-rule="evenodd" clip-rule="evenodd" fill="#BC9045" points="1.651,-1.349 2.854,-2.553 2.554,-2.852 1.351,-1.649 
+			1.651,-1.349 		"/>
+		<polygon fill="#BC9045" points="2.122,-0.212 3.822,-0.212 3.822,0.214 2.122,0.214 		"/>
+		<polyline fill-rule="evenodd" clip-rule="evenodd" fill="#BC9045" points="1.349,1.651 2.552,2.854 2.853,2.553 1.65,1.351 
+			1.349,1.651 		"/>
+		<polygon fill="#BC9045" points="-0.213,2.121 0.212,2.121 0.212,3.822 -0.213,3.822 		"/>
+		<polyline fill-rule="evenodd" clip-rule="evenodd" fill="#BC9045" points="-1.65,1.349 -2.853,2.553 -2.552,2.854 -1.35,1.649 
+			-1.65,1.349 		"/>
+	</symbol>
+</defs>
+<use xlink:href="#Ice_Peak_Rock_x5F_2J060P003"  width="7.644" height="7.644" x="-3.822" y="-3.822" transform="matrix(1 0 0 -1 3.8218 3.8223)" overflow="visible"/>
+</svg>

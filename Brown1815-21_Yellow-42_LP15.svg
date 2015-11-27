@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="7.5px" height="7.5px" viewBox="0 0 7.5 7.5" enable-background="new 0 0 7.5 7.5"
+	 xml:space="preserve">
+<defs>
+</defs>
+<rect fill="none" width="7.5" height="7.5"/>
+<polyline fill="#E7CF8C" points="0,2.022 2.023,0 2.824,0 0,2.824 0,2.022 "/>
+<polyline fill="#E7CF8C" points="0,4.522 4.521,0 5.324,0 0,5.324 0,4.522 "/>
+<polyline fill="#E7CF8C" points="0,7.022 7.021,0 7.5,0 7.5,0.323 0.323,7.5 0,7.5 0,7.022 "/>
+<polyline fill="#E7CF8C" points="7.021,7.5 7.5,7.022 7.5,7.5 7.021,7.5 "/>
+<polyline fill="#E7CF8C" points="2.023,7.5 7.5,2.022 7.5,2.824 2.824,7.5 2.023,7.5 "/>
+<polyline fill="#E7CF8C" points="4.521,7.5 7.5,4.522 7.5,5.324 5.324,7.5 4.521,7.5 "/>
+<polyline fill="#E7CF8C" points="0.323,0 0,0.323 0,0 0.323,0 "/>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="3px" height="4px" viewBox="-0.41 -0.24 3 4" enable-background="new -0.41 -0.24 3 4"
+	 xml:space="preserve">
+<defs>
+	<symbol  id="Pipe_x5F_Other_x5F_Tic" viewBox="-1.002 -1.604 2.005 3.208">
+		<polyline fill="none" stroke="#000000" stroke-width="0.5669" points="-0.802,1.403 0.602,0 -0.802,-1.403 		"/>
+	</symbol>
+</defs>
+<use xlink:href="#Pipe_x5F_Other_x5F_Tic"  width="2.005" height="3.208" x="-1.002" y="-1.604" transform="matrix(-1 0.0089 0.0089 1 1.002 1.6094)" overflow="visible"/>
+</svg>

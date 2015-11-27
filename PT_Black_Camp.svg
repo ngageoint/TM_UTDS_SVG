@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="3px" height="4px" viewBox="-0.356 -0.83 3 4" enable-background="new -0.356 -0.83 3 4"
+	 xml:space="preserve">
+<defs>
+	<symbol  id="Tent_x5F_Dwelling_x5F_1L228P001" viewBox="-1.215 -1.521 2.431 3.043">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" points="0.13,1.205 0,1.521 -0.13,1.205 -1.215,-1.414 -1.084,-1.468 
+			-0.954,-1.521 0,0.78 0.954,-1.521 1.215,-1.414 		"/>
+	</symbol>
+</defs>
+<use xlink:href="#Tent_x5F_Dwelling_x5F_1L228P001"  width="2.431" height="3.043" x="-1.215" y="-1.521" transform="matrix(1 0 0 -1 1.2153 1.5215)" overflow="visible"/>
+</svg>

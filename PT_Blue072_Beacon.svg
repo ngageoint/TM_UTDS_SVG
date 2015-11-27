@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="5px" height="5px" viewBox="-0.185 -0.045 5 5" enable-background="new -0.185 -0.045 5 5"
+	 xml:space="preserve">
+<defs>
+	<symbol  id="Aircraft_x5F_Beacon_x5F_1U040P004_1" viewBox="-2.126 -2.023 4.252 4.047">
+		<polyline fill-rule="evenodd" clip-rule="evenodd" fill="#28166F" points="-2.126,0.478 -0.503,0.478 -0.001,2.023 0.502,0.478 
+			2.126,0.478 0.811,-0.478 1.314,-2.023 -0.001,-1.068 -1.315,-2.023 -0.813,-0.478 -2.126,0.478 		"/>
+		<polyline fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="0.353,-0.151 0.251,0.101 -0.001,0.205 -0.252,0.101 
+			-0.354,-0.151 -0.252,-0.401 -0.001,-0.505 0.251,-0.401 0.353,-0.151 		"/>
+	</symbol>
+</defs>
+<ellipse fill="#FFFFFF" cx="2.12" cy="2.15" rx="0.43" ry="0.398"/>
+<use xlink:href="#Aircraft_x5F_Beacon_x5F_1U040P004_1"  width="4.252" height="4.047" x="-2.126" y="-2.023" transform="matrix(1 0 0 -1 2.126 2.0234)" overflow="visible"/>
+</svg>

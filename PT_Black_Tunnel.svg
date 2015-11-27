@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="9px" height="9px" viewBox="-0.173 -0.227 9 9" enable-background="new -0.173 -0.227 9 9"
+	 xml:space="preserve">
+<defs>
+	<symbol  id="Tunnel_x5F_Road_x5F_Rail_x5F_1Q131P002" viewBox="-4.32 -4.037 8.642 8.074">
+		<path d="M-0.709,0.283h-2.126v2.552c0,0.075-0.029,0.147-0.083,0.2L-3.92,4.037l-0.4-0.4l0.919-0.919v-5.436L-4.32-3.637l0.4-0.4
+			l1.002,1.002c0.054,0.053,0.083,0.125,0.083,0.2v2.552h2.126V0.283z"/>
+		<path d="M3.4,2.718l0.921,0.917l-0.4,0.402l-1.004-1C2.863,2.983,2.834,2.911,2.834,2.836V0.283H0.709v-0.566h2.125v-2.551
+			c0-0.075,0.029-0.147,0.083-0.2l1.004-1.002l0.4,0.4L3.4-2.717V2.718z"/>
+	</symbol>
+</defs>
+<use xlink:href="#Tunnel_x5F_Road_x5F_Rail_x5F_1Q131P002"  width="8.642" height="8.074" x="-4.32" y="-4.037" transform="matrix(1 0 0 -1 4.3203 4.0371)" overflow="visible"/>
+</svg>

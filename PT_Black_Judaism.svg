@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="3px" height="4px" viewBox="-0.536 -0.578 3 4" enable-background="new -0.536 -0.578 3 4"
+	 xml:space="preserve">
+<defs>
+	<symbol  id="Building_x5F_Synagog_x5F_Top" viewBox="-0.963 -1.541 1.926 3.083">
+		<polygon points="0.963,0.965 0.963,1.541 -0.963,1.541 -0.963,0.965 -0.291,0.965 -0.291,-1.541 0.301,-1.541 0.299,0.965 		"/>
+	</symbol>
+</defs>
+<use xlink:href="#Building_x5F_Synagog_x5F_Top"  width="1.926" height="3.083" x="-0.963" y="-1.541" transform="matrix(1 0 0 -1 0.9629 1.5415)" overflow="visible"/>
+</svg>

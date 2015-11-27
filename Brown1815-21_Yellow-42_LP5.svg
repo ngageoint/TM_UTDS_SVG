@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="15.001px" height="15px" viewBox="0 0 15.001 15" enable-background="new 0 0 15.001 15"
+	 xml:space="preserve">
+<defs>
+</defs>
+<rect fill="none" width="15.001" height="15"/>
+<polyline fill="#E7CF8C" points="13.477,0 0,13.475 0,12.82 12.82,0 13.477,0 "/>
+<polyline fill="#E7CF8C" points="11.805,0 0,11.803 0,11.148 11.148,0 11.805,0 "/>
+<polyline fill="#E7CF8C" points="10.132,0 0,10.131 0,9.477 9.477,0 10.132,0 "/>
+<polyline fill="#E7CF8C" points="15.001,11.803 11.805,15 11.148,15 15.001,11.148 15.001,11.803 "/>
+<polyline fill="#E7CF8C" points="15.001,10.131 10.132,15 9.477,15 15.001,9.477 15.001,10.131 "/>
+<polyline fill="#E7CF8C" points="15.001,13.475 13.477,15 12.82,15 15.001,12.82 15.001,13.475 "/>
+<polyline fill="#E7CF8C" points="8.477,0 0,8.477 0,7.82 7.82,0 8.477,0 "/>
+<polyline fill="#E7CF8C" points="6.806,0 0,6.805 0,6.148 6.149,0 6.806,0 "/>
+<polyline fill="#E7CF8C" points="5.132,0 0,5.133 0,4.477 4.477,0 5.132,0 "/>
+<polyline fill="#E7CF8C" points="3.46,0 0,3.459 0,2.805 2.806,0 3.46,0 "/>
+<polyline fill="#E7CF8C" points="15.001,6.805 6.806,15 6.149,15 15.001,6.148 15.001,6.805 "/>
+<polyline fill="#E7CF8C" points="15.001,3.459 3.46,15 2.806,15 15.001,2.805 15.001,3.459 "/>
+<polyline fill="#E7CF8C" points="15.001,8.477 8.477,15 7.82,15 15.001,7.82 15.001,8.477 "/>
+<polyline fill="#E7CF8C" points="15.001,0.146 0.131,15 0,15 0,14.477 14.492,0 15.001,0 15.001,0.146 "/>
+<polyline fill="#E7CF8C" points="15.001,1.787 1.802,15 1.131,15 15.001,1.131 15.001,1.787 "/>
+<polyline fill="#E7CF8C" points="14.492,15 15.001,14.492 15.001,15 14.492,15 "/>
+<polyline fill="#E7CF8C" points="0.147,0 0,0.146 0,0 0.147,0 "/>
+<polyline fill="#E7CF8C" points="1.802,0 0,1.787 0,1.131 1.131,0 1.802,0 "/>
+<polyline fill="#E7CF8C" points="15.001,5.133 5.132,15 4.477,15 15.001,4.477 15.001,5.133 "/>
+</svg>

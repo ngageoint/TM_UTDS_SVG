@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="9px" height="7px" viewBox="-0.923 -0.335 9 7" enable-background="new -0.923 -0.335 9 7"
+	 xml:space="preserve">
+<defs>
+</defs>
+<line fill="none" stroke="#000000" stroke-width="0.8504" x1="5.743" y1="4.849" x2="1.492" y2="4.849"/>
+<line fill="none" stroke="#000000" stroke-width="0.8504" x1="1.492" y1="1.731" x2="5.743" y2="1.731"/>
+<ellipse fill="none" stroke="#000000" stroke-width="0.5669" cx="3.618" cy="3.311" rx="0.89" ry="0.905"/>
+<line fill="none" stroke="#000000" stroke-width="0.4252" stroke-linejoin="bevel" x1="5.604" y1="1.654" x2="7.107" y2="0.15"/>
+<line fill="none" stroke="#000000" stroke-width="0.4252" stroke-linejoin="bevel" x1="1.654" y1="1.731" x2="0.151" y2="0.228"/>
+<line fill="none" stroke="#000000" stroke-width="0.4252" stroke-linejoin="bevel" x1="0.15" y1="6.352" x2="1.654" y2="4.849"/>
+<line fill="none" stroke="#000000" stroke-width="0.4252" stroke-linejoin="bevel" x1="7.107" y1="6.42" x2="5.604" y2="4.915"/>
+</svg>

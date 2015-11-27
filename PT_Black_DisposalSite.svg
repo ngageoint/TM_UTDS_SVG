@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="5px" height="4px" viewBox="-0.46 -0.38 5 4" enable-background="new -0.46 -0.38 5 4"
+	 xml:space="preserve">
+<defs>
+	<symbol  id="Building_x5F_HOW_x5F_Minaret_x5F_1L015P080" viewBox="-1.786 -1.786 3.572 3.572">
+		<path fill="#FFFFFF" d="M1.604,0.006c0-0.907-0.71-1.643-1.589-1.643c-0.877,0-1.587,0.735-1.587,1.643s0.71,1.643,1.587,1.643
+			C0.895,1.648,1.604,0.913,1.604,0.006z"/>
+		<path d="M0,1.786c-0.986,0-1.786-0.8-1.786-1.786S-0.986-1.786,0-1.786S1.786-0.986,1.786,0S0.986,1.786,0,1.786z M0-1.365
+			c-0.754,0-1.365,0.611-1.365,1.365c0,0.755,0.611,1.365,1.365,1.365S1.364,0.755,1.364,0C1.364-0.754,0.754-1.365,0-1.365z"/>
+		<path d="M0.425,0c0-0.234-0.189-0.424-0.425-0.424S-0.425-0.234-0.425,0S-0.235,0.426,0,0.426S0.425,0.234,0.425,0z"/>
+	</symbol>
+</defs>
+<circle fill="#FFFFFF" cx="1.786" cy="1.786" r="1.701"/>
+<use xlink:href="#Building_x5F_HOW_x5F_Minaret_x5F_1L015P080"  width="3.572" height="3.572" x="-1.786" y="-1.786" transform="matrix(1 0 0 -1 1.7861 1.7861)" overflow="visible"/>
+</svg>

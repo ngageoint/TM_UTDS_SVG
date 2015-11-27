@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="4px" height="10px" viewBox="-0.294 -0.444 4 10" enable-background="new -0.294 -0.444 4 10"
+	 xml:space="preserve">
+<defs>
+	<symbol  id="Pylon" viewBox="-1.525 -4.278 3.051 8.557">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#28166F" points="0,-3.176 -0.765,-4.278 -1.525,-4.278 -0.287,3.444 
+			-0.928,3.444 -1.152,3.051 -1.525,3.051 -0.959,4.278 0.957,4.278 1.525,3.051 1.152,3.051 0.929,3.444 0.287,3.444 1.525,-4.278 
+			0.765,-4.278 		"/>
+	</symbol>
+</defs>
+<use xlink:href="#Pylon"  width="3.051" height="8.557" x="-1.525" y="-4.278" transform="matrix(1 0 0 -1 1.5254 4.2783)" overflow="visible"/>
+</svg>

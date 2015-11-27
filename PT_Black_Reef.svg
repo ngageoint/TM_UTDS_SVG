@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="5px" height="4px" viewBox="-0.051 -0.161 5 4" enable-background="new -0.051 -0.161 5 4"
+	 xml:space="preserve">
+<defs>
+	<symbol  id="Rock_x2F_CoverUncover_x5F_2D130P013" viewBox="-2.126 -1.913 4.252 3.825">
+		<line fill="none" stroke="#000000" stroke-width="0.2835" x1="-2.126" y1="0" x2="2.126" y2="0"/>
+		<line fill="none" stroke="#000000" stroke-width="0.2835" x1="1.064" y1="1.842" x2="-1.062" y2="-1.842"/>
+		<line fill="none" stroke="#000000" stroke-width="0.2835" x1="-1.062" y1="1.842" x2="1.064" y2="-1.841"/>
+	</symbol>
+</defs>
+<use xlink:href="#Rock_x2F_CoverUncover_x5F_2D130P013"  width="4.252" height="3.825" x="-2.126" y="-1.913" transform="matrix(1 0 0 -1 2.126 1.9131)" overflow="visible"/>
+</svg>
